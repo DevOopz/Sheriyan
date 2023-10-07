@@ -1,1 +1,11 @@
 https://www.youtube.com/watch?v=bVyigcIt-ac&t=30s
+
+ 1247  git init
+ 1248  git add .
+ 1249  git branch -M main
+ 1250  git config --global user.name"devoopz"
+ 1251  git config --global user.email"shivam.singh8@yahoo.com"
+ 1252  git commit -m "first commit"
+ 1253  Git remote set-url origin https://github.com/DevOopz/Sheriyan.git
+ 1254  git remote set-url origin https://github.com/DevOopz/Sheriyan.git
+ 1255  
